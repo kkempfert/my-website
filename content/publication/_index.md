@@ -12,4 +12,6 @@ view: 4
 header:
   caption: ""
   image: ""
+  
+links = [{name = "ArXiv", url = "https://arxiv.org/abs/1910.02114"}]
 ---
