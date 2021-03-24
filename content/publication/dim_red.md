@@ -20,7 +20,7 @@ authors = ["Katherine C. Kempfert", "Yishi Wang", "Cuixian Chen", "Samuel W.K. W
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear in the 2020 issue of *Intelligent Data Analysis*."
+publication = "*Intelligent Data Analysis* 24.2 (2020): 267-290."
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
@@ -40,7 +40,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1910.02114"
+url_pdf = "https://content.iospress.com/articles/intelligent-data-analysis/ida194486"
 #url_preprint = "https://arxiv.org/abs/1910.02114"
 #url_code = ""
 #url_dataset = ""
@@ -52,7 +52,7 @@ url_pdf = "https://arxiv.org/abs/1910.02114"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "ArXiv Preprint", url = "https://arxiv.org/abs/1910.02114"}]
+url_custom = [{name = "ArXiv", url = "https://arxiv.org/abs/1910.02114"}]
 
 # Does the content use math formatting?
 math = true

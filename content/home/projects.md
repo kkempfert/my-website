@@ -41,9 +41,8 @@ date_format = "Jan 2006"
   description = """ 
   
   * Classified the composer of Haydn and Mozart string quartets based on musical scores and set benchmark results that exceed 85% leave-one-out classification accuracy
-  * Developed novel, musically sophisticated features that can be calculated from musical scores and applied to other music classification tasks
-  * Generated insights of interest to musicologists and historians through statistical interpretation of
-results (via feature selection and estimated coefficients in the final logistic regression model)
+  * Developed novel features based on the sonata form that can be automatically computed and applied to other tasks in music information retrieval (MIR)
+  * Provided model-based interpretations about Haydn and Mozart that could be relevant to musicologists
   
   """
   
@@ -57,7 +56,7 @@ results (via feature selection and estimated coefficients in the final logistic 
   description = """  
   
   * Began the project by participating in the 10-week Parallel Computing Summer School and returned the next summer in the Information Systems & Modeling (A-1) research group
-  * Forecasted dengue fever with high accuracy and confidence for all 27 states of Brazil using time series variables from diverse data streams (doctors' offices, weather stations, satellites, and Google Health Trends)
+  * Forecasted dengue fever with high accuracy and confidence for all 27 states of Brazil using time series variables from heterogeneous data streams (doctors' offices, weather stations, satellites, and Google Health Trends)
   * Systematically compared predictive performance among variants of SARIMA, vector autoregression, seasonal trend decomposition, and ensembles combining these methods; reached Pearson correlation coefficients (between observed and fitted values) of up to 96.44% for 2-week-ahead forecasting
   
   """
