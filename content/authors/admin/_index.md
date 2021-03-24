@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: First Year PhD Student in Statistics
+role: Second Year PhD Student in Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: My research interests include statistical machine learning methods for appl
 interests:
 - Statistical Machine Learning
 - Applied & Computational Statistics
-- High-dimensional data
+- Time Series Analysis
 
 education:
   courses:
@@ -65,10 +65,10 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student in [statistics at the University of California Berkeley](https://statistics.berkeley.edu/). My research interests involve using statistical machine learning methods to address applied problems. 
+I am a second year PhD student in [statistics at the University of California Berkeley](https://statistics.berkeley.edu/). My research interests involve using statistical machine learning methods to address applied problems. 
 
 Previously, I double majored in [mathematics](https://math.ufl.edu/) and [statistics at the University of Florida](https://stat.ufl.edu/). My undergraduate [research projects](#projects) in statistics had applications in areas ranging from computer vision to classical music, as well as public health.  
 
-Outside of statistics, my personal interests and hobbies include music, art, hiking, and spending time with my cats. 
+Outside of statistics, my personal interests and hobbies include playing piano, painting, hiking, and spending time with my cats. 
 
 
