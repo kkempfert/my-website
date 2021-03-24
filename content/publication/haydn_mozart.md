@@ -2,7 +2,7 @@
 title = "Where Does Haydn End and Mozart Begin? Composer Classification of String Quartets"
 
 # Date first published.
-date = "2020"
+date = "2020-09-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 

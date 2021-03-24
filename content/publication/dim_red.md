@@ -2,7 +2,7 @@
 title = "A Comparison Study on Nonlinear Dimension Reduction Methods with Kernel Variations: Visualization, Optimization and Classification"
 
 # Date first published.
-date = "2019-10-06"
+date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
