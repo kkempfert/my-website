@@ -41,7 +41,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://content.iospress.com/articles/intelligent-data-analysis/ida194486"
-#url_preprint = "https://arxiv.org/abs/1910.02114"
+url_preprint = "https://arxiv.org/abs/1910.02114"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
@@ -52,7 +52,7 @@ url_pdf = "https://content.iospress.com/articles/intelligent-data-analysis/ida19
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "ArXiv", url = "https://arxiv.org/abs/1910.02114"}]
+#url_custom = [{name = "ArXiv", url = "https://arxiv.org/abs/1910.02114"}]
 
 # Does the content use math formatting?
 math = true

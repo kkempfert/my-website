@@ -2,7 +2,7 @@
 title = "Where Does Haydn End and Mozart Begin? Composer Classification of String Quartets"
 
 # Date first published.
-date = "2019-05-06"
+date = "2020"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -20,11 +20,11 @@ authors = ["Katherine C. Kempfert", "Samuel W.K. Wong"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to *Journal of New Music Research*."
+publication = "*Journal of New Music Research 49*(5), 457-476 "
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "For humans and machines, perceiving differences between string quartets by Joseph Haydn and Wolfgang Amadeus Mozart has been a challenging task, because of stylistic and compositional similarities between the composers. Based on the content of music scores, this study identifies and quantifies distinctions between these string quartets using statistical and machine learning techniques. Our approach develops new musically meaningful summary features based on the sonata form structure. Several of these proposed summary features are found to be important for distinguishing between Haydn and Mozart string quartets. Leave-one-out classification accuracy rates exceed 85%, significantly higher than has been attained for this task in prior work. These results indicate there are identifiable, musically insightful differences between string quartets by Haydn versus Mozart, such as in their low accompanying voices, Cello and Viola. Our quantitative approaches can expand the longstanding dialogue surrounding Haydn and Mozart, offering empirical evidence of claims made by musicologists. Our proposed framework, which interweaves musical scholarship with learning algorithms, can be applied to other composer classification tasks and quantitative studies of classical music in general."
+abstract = "For centuries, the history and music of Joseph Franz Haydn and Wolfgang Amadeus Mozart have been compared by scholars. Recently, the growing field of music information retrieval (MIR) has offered quantitative analyses to complement traditional qualitative analyses of these composers. In this MIR study, we classify the composer of Haydn and Mozart string quartets based on the content of their scores. Our contribution is an interpretable statistical and machine learning approach that provides high classification accuracies and musical relevance. We develop novel global features that are automatically computed from symbolic data and informed by musicological Haydn-Mozart comparative studies, particularly relating to the sonata form. Several of these proposed features are found to be important for distinguishing between Haydn and Mozart string quartets. Our Bayesian logistic regression model attains leave-one-out classification accuracies over 84%, higher than prior works and providing interpretations that could aid in assessing musicological claims. Overall, our work can help expand the longstanding dialogue surrounding Haydn and Mozart and exemplify the benefit of interpretable machine learning in MIR, with potential applications to music generation and classification of other classical composers."
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -40,8 +40,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1809.05075"
-#url_preprint = "https://arxiv.org/abs/1809.05075"
+url_pdf = "https://www.tandfonline.com/doi/full/10.1080/09298215.2020.1814822"
+url_preprint = "https://arxiv.org/abs/1809.05075"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

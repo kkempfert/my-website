@@ -40,8 +40,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "files/preliminary.pdf"
-#url_preprint = ""
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/8622432/"
+url_preprint = "https://arxiv.org/abs/1811.06446"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
