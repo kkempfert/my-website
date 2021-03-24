@@ -71,4 +71,6 @@ Previously, I double majored in [mathematics](https://math.ufl.edu/) and [statis
 
 Outside of statistics, my personal interests and hobbies include playing piano, painting, hiking, and spending time with my cats. 
 
+This website was last updated March 24, 2021. 
+
 
