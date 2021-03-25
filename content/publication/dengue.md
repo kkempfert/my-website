@@ -18,7 +18,7 @@ authors = ["Katherine Kempfert", "Kaitlyn Martinez", "Amir Siraj", "Jessica Conr
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "On arXiv."
@@ -41,8 +41,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/2006.02483.pdf"
-#url_preprint = ""
+#url_pdf = "https://arxiv.org/pdf/2006.02483.pdf"
+url_preprint = "https://arxiv.org/pdf/2006.02483.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
