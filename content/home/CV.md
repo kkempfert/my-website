@@ -5,7 +5,8 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "CV"
-subtitle = "A recent copy of my CV can be found [here](https://kkempfert.github.io/files/CV.pdf)."
+subtitle = ""
 
 
 +++
+A recent copy of my CV can be found [here](https://kkempfert.github.io/files/CV.pdf).
