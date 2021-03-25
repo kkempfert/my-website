@@ -18,10 +18,10 @@ authors = ["Katherine Kempfert", "Kaitlyn Martinez", "Amir Siraj", "Jessica Conr
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "On arXiv."
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
