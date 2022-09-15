@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
   
   * Fit generative long short-term memory (LSTM) neural networks on rainfall time series from weather stations across the United States; generated thousands of synthetic time series from these fits; and analyzed the results to detect and characterize climate change
-  * Performed simulation studies to draw connections between state-space models and recurrent neural networks
+  * Performed simulation studies to draw connections between state-space models and recurrent neural networks.
 
   """
 
