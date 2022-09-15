@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Second Year PhD Student in Statistics
+role: Fourth-Year PhD Student in Statistics
 
 # Organizations/Affiliations
 organizations:
