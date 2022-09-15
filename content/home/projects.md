@@ -17,19 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Nonlinear Dimension Reduction for Gender Classification via Faces"
-  company = "University of North Carolina Wilmington & University of Florida"
+  title = "Generative Deep Learning for Rainfall Modeling"
+  company = "University of California Berkeley"
   company_url = ""
-  location = "Advisors: Dr. Samuel Wong, Dr. Yishi Wang, & Dr. Cuixian Chen"
-  date_start = "2017-05-01"
-  date_end = "2019-02-01"
+  location = "Advisor: Dr. Christopher Paciorek"
+  date_start = "2019-10-01"
+  date_end = "Present"
   description = """
   
-  * Participated in the 10-week Statistical Data Mining & Machine Learning NSF-REU at the University of North Carolina Wilmington then continued research project for over two years
-  * Developed a novel machine learning pipeline for the large face database Morph-II; classified over 55,000 photographs in Morph-II as picturing either a male or a female; and reached over 95% cross-validated accuracy (competitive with benchmark)
-  * Compared the performance of kernel principal component analysis (KPCA), supervised KPCA, and kernel linear discrimnant analysis via simulation studies and results on Morph-II
+  * Fit generative long short-term memory (LSTM) neural networks on rainfall time series from weather stations across the United States; generated thousands of synthetic time series from these fits; and analyzed the results to detect and characterize climate change
+  * Performed simulation studies to draw connections between state-space models and recurrent neural networks
+
   """
+
 
 [[experience]]
   title = "Predicting Classical Composers with Musical Scores"
@@ -45,6 +47,21 @@ date_format = "Jan 2006"
   * Provided model-based interpretations about Haydn and Mozart that could be relevant to musicologists
   
   """
+  
+[[experience]]
+  title = "Nonlinear Dimension Reduction for Gender Classification via Faces"
+  company = "University of North Carolina Wilmington & University of Florida"
+  company_url = ""
+  location = "Advisors: Dr. Samuel Wong, Dr. Yishi Wang, & Dr. Cuixian Chen"
+  date_start = "2017-05-01"
+  date_end = "2019-02-01"
+  description = """
+  
+  * Participated in the 10-week Statistical Data Mining & Machine Learning NSF-REU at the University of North Carolina Wilmington then continued research project for over two years
+  * Developed a novel machine learning pipeline for the large face database Morph-II; classified over 55,000 photographs in Morph-II as picturing either a male or a female; and reached over 95% cross-validated accuracy (competitive with benchmark)
+  * Compared the performance of kernel principal component analysis (KPCA), supervised KPCA, and kernel linear discrimnant analysis via simulation studies and results on Morph-II
+  """
+
   
 [[experience]]
   title = "Forecasting Dengue Fever in Brazil with Diverse Data Streams"

@@ -65,10 +65,13 @@ user_groups:
 - Visitors
 ---
 
-I am a second year PhD student in [statistics at the University of California Berkeley](https://statistics.berkeley.edu/). My research interests involve using statistical machine learning methods to address applied problems. 
+I am a fourth-year PhD student in [statistics at the University of California Berkeley](https://statistics.berkeley.edu/), where I am advised by Dr. Christopher Paciorek. Broadly, my research involves combining classical time series methods and machine learning approaches for improved prediction, generation, intepretation, and uncertainty quantification. Specifically, I am applying generative long short-term memory networks (LSTMs) to rainfall time series. 
+
 
 Previously, I double majored in [mathematics](https://math.ufl.edu/) and [statistics at the University of Florida](https://stat.ufl.edu/). My undergraduate [research projects](#projects) in statistics had applications in areas ranging from computer vision to classical music, as well as public health.  
 
-Outside of statistics, my personal interests and hobbies include playing piano, painting, hiking, and spending time with my cats. 
+I am grateful to be supported by the Chancellor's Fellowship and National Science Foundation Graduate Research Fellowship. 
+
+Outside of statistics, my personal interests and hobbies include playing piano, creating art, enjoying the outdoors, and spending time with my cat. 
 
 
