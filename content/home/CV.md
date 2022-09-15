@@ -11,4 +11,4 @@ subtitle = ""
 +++
 A recent copy of my CV can be found [here](https://kkempfert.github.io/files/CV.pdf).
 
-Last updated March 24, 2021.
+Last updated September 15, 2022.
