@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Advisor: Dr. Christopher Paciorek"
   date_start = "2019-10-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   
   * Fit generative long short-term memory (LSTM) neural networks on rainfall time series from weather stations across the United States; generated thousands of synthetic time series from these fits; and analyzed the results to detect and characterize climate change
